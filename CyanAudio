@@ -1,0 +1,10 @@
+#!/bin/sh
+sudo mkdir /usr/share/alsa/ucm/chtmax98090
+cd /usr/share/alsa/ucm/chtmax98090
+
+sudo wget https://github.com/GalliumOS/galliumos-distro/files/1229861/chtmax98090.conf.txt
+sudo wget https://github.com/GalliumOS/galliumos-distro/files/1229862/HiFi.conf.txt
+
+sudo mv chtmax98090.conf.txt chtmax98090.conf
+sudo mv HiFi.conf.txt HiFi.conf
+
