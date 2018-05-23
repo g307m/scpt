@@ -2,4 +2,4 @@
 fun scpts for all.
 
 # scpt list
-  1) Mr. Chromebox Cyan ALSA installer
+  1) Mr. Chromebox Cyan ALSA script
