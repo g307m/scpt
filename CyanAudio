@@ -8,3 +8,4 @@ sudo wget https://github.com/GalliumOS/galliumos-distro/files/1229862/HiFi.conf.
 sudo mv chtmax98090.conf.txt chtmax98090.conf
 sudo mv HiFi.conf.txt HiFi.conf
 
+pulseaudio -k && sudo alsa force-reload
